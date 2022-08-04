@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(226, 204, 176);
+    color: rgb(55, 56, 7);
+    margin:15px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+   
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    text-indent: 10px;
+    
+
+  
+    
+}
+#heading >h1  {
+   font-weight: 546;
+   font-family:'Times New Roman';
+   letter-spacing: 2px;
+  
+ 
+
+}
+
+#heading >h4  {
+    font-weight: 500;
+    font-style: italic;
+ }
+
+.education {
+    padding: 0px 20px 15px 10px;
+
+}
+
+h2 {
+    font-weight: 546;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+ 
+    
+    
+}
+
+h3 {
+    font-weight: 700;
+    font-style: italic;
+    color: rgb(7, 42, 31);
+    padding-left: 2px;
+ 
+}
+
+section {
+    background-color:rgb(233, 181, 143);
+    padding: 5px 10px 15px 10px;
+    margin-bottom: 35px;
+    border-radius: 5px;
+    box-shadow: 12px 5px 25px 10px rgb(15, 54, 24);
+   
+}
+
+hr{
+    border: 0.5px solid rgb(95, 97, 88);
+}
+
+.profession {
+    padding: 0px 20px 10px 10px;
+}
+
+.skills {
+    padding: 0px 20px 10px 10px;
+}
+
+p, ul {
+    font-size: large;
+    
+}
+
+ .certification > h3 {
+    text-decoration: underline;
+}
